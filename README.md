@@ -28,3 +28,14 @@ and do pardon the stray resistor, I accidently moved it but it really shouldn't 
 
 do note, a certain macropad.zip is the kaicad file, I cant use a windows ./ Linux laptop for a bit and am on a Chromebook so I'm not really able to access it
 
+BOM
+- 3d printed case (I'll leave this one to printing legion, I don't know much about it even if I'm trying to get into it)
+- the pcb (through PCB way)
+- a soldering iron grant would be nice but I can borrow a friend's if needed 
+- xaio rp2040
+- 12x through hole diodes
+- 1x 0.91 inch OLED display
+- 12x mx style switches
+- 2x 1.25u keycaps, 10 1u keycaps
+- 8x heatset inserts,  4 short 4 long, exacts in the CSV
+- 4 screws 
