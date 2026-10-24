@@ -14,11 +14,12 @@ I'm sorry I'm really unsure what more to put here? most of it is in the logs in 
 
 this is the schematic
 
-![Uploading image.png…]()
+<img width="1038" height="474" alt="image" src="https://github.com/user-attachments/assets/f73a8700-0e88-4cec-8cf6-3c6876756d0e" />
 
 this is the pcb
 
-<img src="https://stardance.hackclub.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQxNDc3LCJwdXIiOiJibG9iX2lkIn19--b4079b14a12927d1983da0109250cf5c9d03bb44/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2xpbWl0IjpbMTYwMCw5MDBdLCJzYXZlciI6eyJzdHJpcCI6dHJ1ZSwicXVhbGl0eSI6NzV9fSwicHVyIjoidmFyaWF0aW9uIn19--5394ecd620f1b8ee9be71be3f37cd22b8a88953c/image.png"/>
+![Uploading image.png…]()
+/>
 
 and this is the 3d model
 
