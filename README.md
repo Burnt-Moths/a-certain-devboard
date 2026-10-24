@@ -18,8 +18,9 @@ this is the schematic
 
 this is the pcb
 
-![Uploading image.png…]()
-/>
+<img width="582" height="535" alt="image" src="https://github.com/user-attachments/assets/1e0f41ac-1a85-437a-a416-66f0992f8ffa" />
+
+
 
 and this is the 3d model
 
